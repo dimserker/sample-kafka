@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.dimserker.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.demo.domain.entity;
+package com.dimserker.kafka.domain.entity;
 
 import lombok.Builder;
 import lombok.Data;

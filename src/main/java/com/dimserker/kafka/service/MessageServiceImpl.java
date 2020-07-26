@@ -1,8 +1,8 @@
-package com.example.demo.service;
+package com.dimserker.kafka.service;
 
-import com.example.demo.domain.dto.MessageDto;
-import com.example.demo.domain.entity.Message;
-import com.example.demo.producer.Producer;
+import com.dimserker.kafka.domain.dto.MessageDto;
+import com.dimserker.kafka.domain.entity.Message;
+import com.dimserker.kafka.producer.Producer;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,8 +1,8 @@
-package com.example.demo.config;
+package com.dimserker.kafka.config;
 
-import com.example.demo.config.serde.KeySerializer;
-import com.example.demo.domain.dto.MessageKey;
-import com.example.demo.domain.entity.Message;
+import com.dimserker.kafka.config.serde.KeySerializer;
+import com.dimserker.kafka.domain.dto.MessageKey;
+import com.dimserker.kafka.domain.entity.Message;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

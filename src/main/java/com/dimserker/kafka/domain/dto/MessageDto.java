@@ -1,6 +1,6 @@
-package com.example.demo.domain.dto;
+package com.dimserker.kafka.domain.dto;
 
-import com.example.demo.domain.entity.Message;
+import com.dimserker.kafka.domain.entity.Message;
 import lombok.Data;
 
 @Data

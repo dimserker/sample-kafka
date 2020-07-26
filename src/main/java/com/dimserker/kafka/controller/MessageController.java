@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.dimserker.kafka.controller;
 
-import com.example.demo.domain.dto.MessageDto;
-import com.example.demo.service.MessageService;
+import com.dimserker.kafka.domain.dto.MessageDto;
+import com.dimserker.kafka.service.MessageService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

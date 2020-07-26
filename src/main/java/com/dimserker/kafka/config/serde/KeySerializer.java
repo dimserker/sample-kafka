@@ -1,6 +1,6 @@
-package com.example.demo.config.serde;
+package com.dimserker.kafka.config.serde;
 
-import com.example.demo.domain.dto.MessageKey;
+import com.dimserker.kafka.domain.dto.MessageKey;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.common.serialization.Serializer;

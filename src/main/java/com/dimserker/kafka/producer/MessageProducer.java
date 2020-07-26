@@ -1,7 +1,7 @@
-package com.example.demo.producer;
+package com.dimserker.kafka.producer;
 
-import com.example.demo.domain.dto.MessageKey;
-import com.example.demo.domain.entity.Message;
+import com.dimserker.kafka.domain.dto.MessageKey;
+import com.dimserker.kafka.domain.entity.Message;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;

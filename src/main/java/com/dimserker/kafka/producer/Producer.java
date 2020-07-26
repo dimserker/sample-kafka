@@ -1,4 +1,4 @@
-package com.example.demo.producer;
+package com.dimserker.kafka.producer;
 
 public interface Producer<T> {
 
