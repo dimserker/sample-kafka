@@ -1,0 +1,10 @@
+server:
+  port: 8800
+spring:
+  kafka:
+    bootstrap-servers: "localhost:9092"
+message:
+  topic: "Test_TOPIK"
+kafka:
+  producer:
+    id: "TestProducer"
